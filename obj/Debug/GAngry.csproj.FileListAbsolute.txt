@@ -1,0 +1,9 @@
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\bin\Debug\GAngry.exe.config
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\bin\Debug\GAngry.exe
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\bin\Debug\GAngry.pdb
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.csprojResolveAssemblyReference.cache
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.Properties.Resources.resources
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.csproj.GenerateResource.Cache
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.exe
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.pdb
+c:\users\a0103\documents\visual studio 2017\Projects\GAngry\obj\Debug\GAngry.Form1.resources
